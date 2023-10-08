@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ZeroAfro
+- 👀 I’m interested in Cyber Security and coding
+- 🌱 I’m currently Studying for the google Cyber Security Cert and making my own network
