@@ -4,10 +4,10 @@
 
 I am currently leveraging my background in networking and IT as a foundation to dive deeper into the world of cybersecurity. With a passion for securing digital assets and ensuring data privacy, I am on a continuous journey to expand my knowledge and expertise in the security realm.
 
-Skills: Basic HTML
+Skills: Basic python
 
-- 🔭 I’m currently working on Google Cybersecurity Certificate 
-- 🌱 I’m currently learning Python, Wire Shark, Packet Tracer, Linux 
+- 🔭 I’m currently working on my python skills. 
+- 🌱 I’m currently learning Python!
 - 💬 Ask me about the latest interesting fact I've learned! 
 - ⚡ Fun fact: Cucumbers are a berry 
 
