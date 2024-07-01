@@ -12,7 +12,7 @@ Skills: Basic python
 - ⚡ Fun fact: Cucumbers are barries.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZeroAfro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beau-guthery-156b469a/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/beau-guthery-156b469a/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZeroAfro)](https://github.com/ryo-ma/github-profile-trophy)
 
