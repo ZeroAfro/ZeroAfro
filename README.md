@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Beau
-#### Technology and Security Enthusiast and budding programer
+#### Technology and Security Enthusiast and budding programmer
 ![Technology, Security Enthusiast, and budding programmer](https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-blue-technology-cyber-security-poster-image_135418.jpg)
 
 I am currently leveraging my background in networking and IT as a foundation to dive deeper into the world of cybersecurity. With a passion for securing digital assets and ensuring data privacy, I am on a continuous journey to expand my knowledge and expertise in the security realm.
