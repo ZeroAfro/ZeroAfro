@@ -6,7 +6,7 @@ I am currently leveraging my background in networking and IT as a foundation to 
 
 Skills: Basic python
 
-- 🔭 I’m currently working on my python skills. 
+- 🔭 I’m currently working on my resume. 
 - 🌱 I’m currently learning Python!
 - 💬 Ask me about the latest interesting fact I've learned! 
 - ⚡ Fun fact: Cucumbers are barries.
