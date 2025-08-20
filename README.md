@@ -6,8 +6,8 @@ I am currently leveraging my background in networking and IT as a foundation to 
 
 Skills: Basic python
 
-- 🔭 I’m currently working on my resume. 
-- 🌱 I’m currently learning Python!
+- 🔭 I’m currently working on Sec+ Ceritification 
+- 🌱 I’m currently learning SIEM Tools
 - 💬 Ask me about the latest interesting fact I've learned! 
 - ⚡ Fun fact: Cucumbers are barries.
 
